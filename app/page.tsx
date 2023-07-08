@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Hello Next!</h1>
+      <h1>A place for freedom of expression.</h1>
     </main>
   );
 }
